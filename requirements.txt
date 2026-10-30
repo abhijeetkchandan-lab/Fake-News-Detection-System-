@@ -1,0 +1,5 @@
+streamlit
+joblib
+requests
+scikit-learn
+nltk
